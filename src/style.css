@@ -1,0 +1,22 @@
+/* .grid-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding:0;
+    text-align: center;    
+}
+
+.grid-list li{
+   list-style: none; 
+   width:20%;  
+   height:50px;   
+   margin-bottom:20px;
+   line-height: 50px;
+   border:solid 1px gray;
+}
+button{
+    padding:10px 30px;
+    border-radius: 5px;
+    border:solid 1px rgba(0,0,0,.2);;
+    background: rgba(0,0,0,.1);
+} */
